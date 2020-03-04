@@ -1,0 +1,8 @@
+Oct 21, 2018 5:04:05 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at sun.java2d.Disposer.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)

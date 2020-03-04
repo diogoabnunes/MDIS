@@ -1,0 +1,2 @@
+INFO  [Thread-1] updater.Updater: Checking http://updates.gradegrinder.net:80/downloads/Versions.xml?os.version=Windows+8+6.2+%28x86%29&application=Submit&version=3.1.0
+Exception while removing reference: java.lang.InterruptedException

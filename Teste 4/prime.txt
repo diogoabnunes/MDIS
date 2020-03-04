@@ -1,0 +1,8 @@
+Function prime(n As Single) As Boolean
+	Dim i As Double
+	For i = 3 To Sqr(n) step 2:
+		If n Mod i = 0 Then Exit Function
+	Next
+
+	prime = True
+End Function

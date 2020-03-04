@@ -1,0 +1,4 @@
+log4j:WARN No appenders could be found for logger (openproof.zen.OPPlatformInfo).
+log4j:WARN Please initialize the log4j system properly.
+Jun 26, 2019 4:21:29 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
